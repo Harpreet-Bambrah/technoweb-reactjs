@@ -1,0 +1,12 @@
+
+.nav-item{
+
+    margin: 0px 10px !important;
+    font-weight: 500;
+}
+
+.active1{
+    color: #0c5adb !important;
+    text-decoration: none;
+ 
+}
